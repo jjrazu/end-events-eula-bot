@@ -15,7 +15,6 @@ const {
 
 const required = [
   "DISCORD_TOKEN",
-  "GUILD_ID",
   "EULA_ROLE_ID",
   "LOG_CHANNEL_ID"
 ];
